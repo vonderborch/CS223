@@ -1,0 +1,23 @@
+ALGORITHM 2 (maxSubSum2) TEST
+Input Size (n):512
+File: 512_0, Max Sum: 186, Time Taken: 10226 Microseconds
+
+File: 512_1, Max Sum: 100, Time Taken: 10089 Microseconds
+
+File: 512_2, Max Sum: 131, Time Taken: 10440 Microseconds
+
+File: 512_3, Max Sum: 202, Time Taken: 10070 Microseconds
+
+File: 512_4, Max Sum: 192, Time Taken: 10148 Microseconds
+
+File: 512_5, Max Sum: 154, Time Taken: 10484 Microseconds
+
+File: 512_6, Max Sum: 255, Time Taken: 10165 Microseconds
+
+File: 512_7, Max Sum: 217, Time Taken: 10044 Microseconds
+
+File: 512_8, Max Sum: 153, Time Taken: 10024 Microseconds
+
+File: 512_9, Max Sum: 132, Time Taken: 10197 Microseconds
+
+Average Time: 10188 Microseconds

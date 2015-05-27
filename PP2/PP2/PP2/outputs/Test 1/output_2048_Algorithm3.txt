@@ -1,0 +1,23 @@
+ALGORITHM 3 (maxSubSum3) TEST
+Input Size (n):2048
+File: 2048_0, Max Sum: 187, Time Taken: 1611 Microseconds
+
+File: 2048_1, Max Sum: 436, Time Taken: 1617 Microseconds
+
+File: 2048_2, Max Sum: 161, Time Taken: 1682 Microseconds
+
+File: 2048_3, Max Sum: 317, Time Taken: 1612 Microseconds
+
+File: 2048_4, Max Sum: 224, Time Taken: 1613 Microseconds
+
+File: 2048_5, Max Sum: 431, Time Taken: 1660 Microseconds
+
+File: 2048_6, Max Sum: 284, Time Taken: 1617 Microseconds
+
+File: 2048_7, Max Sum: 217, Time Taken: 1609 Microseconds
+
+File: 2048_8, Max Sum: 212, Time Taken: 1685 Microseconds
+
+File: 2048_9, Max Sum: 241, Time Taken: 1622 Microseconds
+
+Average Time: 1632 Microseconds

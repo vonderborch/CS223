@@ -1,0 +1,92 @@
+STARTING JOSEPHUS GAME TESTING...
+TEST GAME 1
+N: 4, M: 3
+Game Winner: 6
+Time of Game: 0 Millisecond(s)
+Average Round Time: 0 Millisecond(s)
+
+TEST GAME 2
+N: 8, M: 3
+Game Winner: 1
+Time of Game: 0 Millisecond(s)
+Average Round Time: 0 Millisecond(s)
+
+TEST GAME 3
+N: 16, M: 3
+Game Winner: 14
+Time of Game: 1 Millisecond(s)
+Average Round Time: 0 Millisecond(s)
+
+TEST GAME 4
+N: 32, M: 3
+Game Winner: 51
+Time of Game: 1 Millisecond(s)
+Average Round Time: 0.015873 Millisecond(s)
+
+TEST GAME 5
+N: 64, M: 3
+Game Winner: 23
+Time of Game: 2 Millisecond(s)
+Average Round Time: 0.015748 Millisecond(s)
+
+TEST GAME 6
+N: 128, M: 3
+Game Winner: 153
+Time of Game: 3 Millisecond(s)
+Average Round Time: 0.00784314 Millisecond(s)
+
+TEST GAME 7
+N: 256, M: 3
+Game Winner: 498
+Time of Game: 7 Millisecond(s)
+Average Round Time: 0.0117417 Millisecond(s)
+
+TEST GAME 8
+N: 512, M: 3
+Game Winner: 419
+Time of Game: 15 Millisecond(s)
+Average Round Time: 0.00977517 Millisecond(s)
+
+TEST GAME 9
+N: 1024, M: 3
+Game Winner: 1654
+Time of Game: 58 Millisecond(s)
+Average Round Time: 0.0107474 Millisecond(s)
+
+TEST GAME 10
+N: 2048, M: 3
+Game Winner: 883
+Time of Game: 112 Millisecond(s)
+Average Round Time: 0.010989 Millisecond(s)
+
+TEST GAME 11
+N: 4096, M: 3
+Game Winner: 5209
+Time of Game: 271 Millisecond(s)
+Average Round Time: 0.0111098 Millisecond(s)
+
+TEST GAME 12
+N: 8192, M: 3
+Game Winner: 209
+Time of Game: 596 Millisecond(s)
+Average Round Time: 0.0113532 Millisecond(s)
+
+TEST GAME 13
+N: 16384, M: 3
+Game Winner: 14934
+Time of Game: 1309 Millisecond(s)
+Average Round Time: 0.0119022 Millisecond(s)
+
+TEST GAME 14
+N: 32768, M: 3
+Game Winner: 55675
+Time of Game: 1848 Millisecond(s)
+Average Round Time: 0.0129091 Millisecond(s)
+
+TEST GAME 15
+N: 65536, M: 3
+Game Winner: 34877
+Time of Game: 3342 Millisecond(s)
+Average Round Time: 0.0153657 Millisecond(s)
+
+TESTING COMPLETE!

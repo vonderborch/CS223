@@ -1,0 +1,23 @@
+ALGORITHM 2 (maxSubSum2) TEST
+Input Size (n):2048
+File: 2048_0, Max Sum: 187, Time Taken: 160753 Microseconds
+
+File: 2048_1, Max Sum: 436, Time Taken: 161331 Microseconds
+
+File: 2048_2, Max Sum: 161, Time Taken: 161032 Microseconds
+
+File: 2048_3, Max Sum: 317, Time Taken: 160539 Microseconds
+
+File: 2048_4, Max Sum: 224, Time Taken: 161449 Microseconds
+
+File: 2048_5, Max Sum: 431, Time Taken: 163515 Microseconds
+
+File: 2048_6, Max Sum: 284, Time Taken: 161501 Microseconds
+
+File: 2048_7, Max Sum: 217, Time Taken: 161167 Microseconds
+
+File: 2048_8, Max Sum: 212, Time Taken: 159443 Microseconds
+
+File: 2048_9, Max Sum: 241, Time Taken: 160014 Microseconds
+
+Average Time: 161074 Microseconds

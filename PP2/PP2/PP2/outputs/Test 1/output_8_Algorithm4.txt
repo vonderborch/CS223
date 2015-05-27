@@ -1,0 +1,23 @@
+ALGORITHM 4 (maxSubSum4) TEST
+Input Size (n):8
+File: 8_0, Max Sum: 8, Time Taken: 1 Microseconds
+
+File: 8_1, Max Sum: 26, Time Taken: 1 Microseconds
+
+File: 8_2, Max Sum: 29, Time Taken: 1 Microseconds
+
+File: 8_3, Max Sum: 28, Time Taken: 1 Microseconds
+
+File: 8_4, Max Sum: 13, Time Taken: 1 Microseconds
+
+File: 8_5, Max Sum: 42, Time Taken: 1 Microseconds
+
+File: 8_6, Max Sum: 8, Time Taken: 1 Microseconds
+
+File: 8_7, Max Sum: 13, Time Taken: 1 Microseconds
+
+File: 8_8, Max Sum: 5, Time Taken: 1 Microseconds
+
+File: 8_9, Max Sum: 23, Time Taken: 1 Microseconds
+
+Average Time: 1 Microseconds

@@ -1,0 +1,32 @@
+STARTING JOSEPHUS GAME TESTING...
+TEST GAME 1
+N: 4, M: 2
+Game Winner: 7
+Time of Game: 0 Millisecond(s)
+Average Round Time: 0 Millisecond(s)
+
+TEST GAME 2
+N: 8, M: 2
+Game Winner: 8
+Time of Game: 0 Millisecond(s)
+Average Round Time: 0 Millisecond(s)
+
+TEST GAME 3
+N: 16, M: 2
+Game Winner: 4
+Time of Game: 1 Millisecond(s)
+Average Round Time: 0 Millisecond(s)
+
+TEST GAME 4
+N: 32, M: 2
+Game Winner: 53
+Time of Game: 1 Millisecond(s)
+Average Round Time: 0 Millisecond(s)
+
+TEST GAME 5
+N: 64, M: 2
+Game Winner: 70
+Time of Game: 1 Millisecond(s)
+Average Round Time: 0 Millisecond(s)
+
+TESTING COMPLETE!

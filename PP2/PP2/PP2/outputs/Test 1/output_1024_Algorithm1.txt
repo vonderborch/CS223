@@ -1,0 +1,23 @@
+ALGORITHM 1 (maxSubSum1) TEST
+Input Size (n):1024
+File: 1024_0, Max Sum: 187, Time Taken: 9292628 Microseconds
+
+File: 1024_1, Max Sum: 322, Time Taken: 9328169 Microseconds
+
+File: 1024_2, Max Sum: 131, Time Taken: 9341476 Microseconds
+
+File: 1024_3, Max Sum: 229, Time Taken: 9310015 Microseconds
+
+File: 1024_4, Max Sum: 224, Time Taken: 9333738 Microseconds
+
+File: 1024_5, Max Sum: 309, Time Taken: 9344421 Microseconds
+
+File: 1024_6, Max Sum: 255, Time Taken: 9343532 Microseconds
+
+File: 1024_7, Max Sum: 217, Time Taken: 9351942 Microseconds
+
+File: 1024_8, Max Sum: 153, Time Taken: 9343798 Microseconds
+
+File: 1024_9, Max Sum: 166, Time Taken: 9304258 Microseconds
+
+Average Time: 9329397 Microseconds

@@ -1,0 +1,69 @@
+Setting up new Board
+ID: 8 (9, 8)
+ID: 7 (9, 3)
+ID: 6 (8, 2)
+ID: 5 (6, 3)
+ID: 4 (5, 7)
+ID: 3 (4, 6)
+ID: 2 (4, 3)
+ID: 1 (3, 2)
+Insert Error: Player already exists!
+Insert Error: Player at coordinates already exists!
+Moving Player 4
+Player 7 Removed!
+ID: 8 (9, 8)
+ID: 6 (8, 2)
+ID: 5 (6, 3)
+ID: 4 (9, 3)
+ID: 3 (4, 6)
+ID: 2 (4, 3)
+ID: 1 (3, 2)
+Moving Player 4
+Player 8 Removed!
+ID: 6 (8, 2)
+ID: 5 (6, 3)
+ID: 4 (9, 8)
+ID: 3 (4, 6)
+ID: 2 (4, 3)
+ID: 1 (3, 2)
+ID: 6 (8, 2)
+ID: 5 (6, 3)
+ID: 4 (9, 8)
+ID: 3 (4, 6)
+ID: 2 (4, 3)
+ID: 1 (3, 2)
+Moving Player 2
+ID: 6 (8, 2)
+ID: 5 (6, 3)
+ID: 4 (9, 8)
+ID: 3 (4, 6)
+ID: 2 (3, 3)
+ID: 1 (3, 2)
+Moving Player 4
+Player 1 Removed!
+ID: 6 (8, 2)
+ID: 5 (6, 3)
+ID: 4 (3, 2)
+ID: 3 (4, 6)
+ID: 2 (3, 3)
+Moving Player 4
+Player 6 Removed!
+ID: 5 (6, 3)
+ID: 4 (8, 2)
+ID: 3 (4, 6)
+ID: 2 (3, 3)
+Moving Player 5
+Player 2 Removed!
+ID: 5 (3, 3)
+ID: 4 (8, 2)
+ID: 3 (4, 6)
+Moving Player 4
+Player 3 Removed!
+ID: 5 (3, 3)
+ID: 4 (4, 6)
+Moving Player 5
+ID: 5 (4, 3)
+ID: 4 (4, 6)
+Moving Player 4
+Player 5 Removed!
+ID: 4 (4, 3)

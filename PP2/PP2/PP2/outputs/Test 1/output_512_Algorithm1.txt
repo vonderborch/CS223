@@ -1,0 +1,23 @@
+ALGORITHM 1 (maxSubSum1) TEST
+Input Size (n):512
+File: 512_0, Max Sum: 186, Time Taken: 1166275 Microseconds
+
+File: 512_1, Max Sum: 100, Time Taken: 1164879 Microseconds
+
+File: 512_2, Max Sum: 131, Time Taken: 1167674 Microseconds
+
+File: 512_3, Max Sum: 202, Time Taken: 1165088 Microseconds
+
+File: 512_4, Max Sum: 192, Time Taken: 1162176 Microseconds
+
+File: 512_5, Max Sum: 154, Time Taken: 1162272 Microseconds
+
+File: 512_6, Max Sum: 255, Time Taken: 1163827 Microseconds
+
+File: 512_7, Max Sum: 217, Time Taken: 1162752 Microseconds
+
+File: 512_8, Max Sum: 153, Time Taken: 1164801 Microseconds
+
+File: 512_9, Max Sum: 132, Time Taken: 1161343 Microseconds
+
+Average Time: 1164108 Microseconds

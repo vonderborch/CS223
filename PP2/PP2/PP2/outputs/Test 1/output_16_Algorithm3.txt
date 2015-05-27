@@ -1,0 +1,23 @@
+ALGORITHM 3 (maxSubSum3) TEST
+Input Size (n):16
+File: 16_0, Max Sum: 12, Time Taken: 7 Microseconds
+
+File: 16_1, Max Sum: 26, Time Taken: 7 Microseconds
+
+File: 16_2, Max Sum: 29, Time Taken: 8 Microseconds
+
+File: 16_3, Max Sum: 32, Time Taken: 7 Microseconds
+
+File: 16_4, Max Sum: 13, Time Taken: 7 Microseconds
+
+File: 16_5, Max Sum: 42, Time Taken: 7 Microseconds
+
+File: 16_6, Max Sum: 18, Time Taken: 7 Microseconds
+
+File: 16_7, Max Sum: 13, Time Taken: 7 Microseconds
+
+File: 16_8, Max Sum: 17, Time Taken: 7 Microseconds
+
+File: 16_9, Max Sum: 23, Time Taken: 7 Microseconds
+
+Average Time: 7 Microseconds

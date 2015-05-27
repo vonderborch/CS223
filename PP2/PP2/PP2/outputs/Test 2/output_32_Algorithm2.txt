@@ -1,0 +1,23 @@
+ALGORITHM 2 (maxSubSum2) TEST
+Input Size (n):32
+File: 32_0, Max Sum: 36, Time Taken: 43 Microseconds
+
+File: 32_1, Max Sum: 36, Time Taken: 43 Microseconds
+
+File: 32_2, Max Sum: 50, Time Taken: 43 Microseconds
+
+File: 32_3, Max Sum: 32, Time Taken: 43 Microseconds
+
+File: 32_4, Max Sum: 50, Time Taken: 43 Microseconds
+
+File: 32_5, Max Sum: 42, Time Taken: 43 Microseconds
+
+File: 32_6, Max Sum: 20, Time Taken: 43 Microseconds
+
+File: 32_7, Max Sum: 15, Time Taken: 43 Microseconds
+
+File: 32_8, Max Sum: 29, Time Taken: 46 Microseconds
+
+File: 32_9, Max Sum: 23, Time Taken: 42 Microseconds
+
+Average Time: 43 Microseconds

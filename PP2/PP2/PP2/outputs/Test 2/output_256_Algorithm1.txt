@@ -1,0 +1,23 @@
+ALGORITHM 1 (maxSubSum1) TEST
+Input Size (n):256
+File: 256_0, Max Sum: 148, Time Taken: 146090 Microseconds
+
+File: 256_1, Max Sum: 100, Time Taken: 147416 Microseconds
+
+File: 256_2, Max Sum: 65, Time Taken: 146300 Microseconds
+
+File: 256_3, Max Sum: 42, Time Taken: 146594 Microseconds
+
+File: 256_4, Max Sum: 192, Time Taken: 147434 Microseconds
+
+File: 256_5, Max Sum: 96, Time Taken: 149319 Microseconds
+
+File: 256_6, Max Sum: 140, Time Taken: 148085 Microseconds
+
+File: 256_7, Max Sum: 52, Time Taken: 146848 Microseconds
+
+File: 256_8, Max Sum: 64, Time Taken: 147177 Microseconds
+
+File: 256_9, Max Sum: 132, Time Taken: 147585 Microseconds
+
+Average Time: 147284 Microseconds
